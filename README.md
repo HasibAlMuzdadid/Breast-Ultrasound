@@ -1,4 +1,4 @@
-## Project : Breast Ultrasound Paper Code
+## Project : Breast Ultrasound Paper Sample Code
 [![Author](https://img.shields.io/badge/Author-Hasib%20Al%20Muzdadid-brightgreen)](https://github.com/HasibAlMuzdadid)
 [![BSD 3-Clause License](https://img.shields.io/github/license/hasibalmuzdadid/Breast-Ultrasound?style=flat&color=orange)](https://github.com/HasibAlMuzdadid/Breast-Ultrasound/blob/main/LICENSE)
 [![Stars](https://img.shields.io/github/stars/hasibalmuzdadid/Breast-Ultrasound?style=social)](https://github.com/HasibAlMuzdadid/Breast-Ultrasound/stargazers)
