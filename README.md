@@ -11,6 +11,13 @@ Portfolio: https://hasibalmuzdadid.github.io  </br>
 LinkedIn: https://www.linkedin.com/in/hasibalmuzdadid  </br> 
 Email: muzdadid@gmail.com
 
+Pallab Chowdhury</br>
+[Department of Electrical & Computer Engineering](https://www.ece.ruet.ac.bd/), </br>
+[Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/) </br>
+Portfolio: https://pkchowdhury.github.io/  </br> 
+LinkedIn: https://www.linkedin.com/in/pkchowdhury95/  </br> 
+Email: chowdhurypall95@gmail.com
+
 ## Project Description :
 This repository contains the official sample codes regarding the research paper titled <b>"A robust encoder decoder based weighted segmentation and dual staged feature fusion based meta classification for breast cancer utilizing ultrasound imaging"</b> published by Elsevier's <b>"Intelligent Systems with Applications"</b> journal.
 
