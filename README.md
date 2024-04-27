@@ -14,6 +14,9 @@ Email: muzdadid@gmail.com
 ## Project Description :
 This repository contains the official sample codes regarding the research paper titled <b>"A robust encoder decoder based weighted segmentation and dual staged feature fusion based meta classification for breast cancer utilizing ultrasound imaging"</b> published by Elsevier's <b>"Intelligent Systems with Applications"</b> journal.
 
+**Language used :** Python  </br> 
+**Development Tool :** Jupyter Notebook
+
 ## Citation :
 ```bibtex
 
