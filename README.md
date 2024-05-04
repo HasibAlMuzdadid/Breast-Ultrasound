@@ -19,7 +19,7 @@ LinkedIn: https://www.linkedin.com/in/pkchowdhury95/  </br>
 Email: chowdhurypall95@gmail.com
 
 ## Project Description :
-This repository contains the official sample codes regarding the research paper titled <b>"A robust encoder decoder based weighted segmentation and dual staged feature fusion based meta classification for breast cancer utilizing ultrasound imaging"</b> published by Elsevier's <b>"Intelligent Systems with Applications"</b> journal.
+This repository contains the official sample codes <b><i>[not the original codes used in implementation]</i></b> regarding the research paper titled <b>"A robust encoder decoder based weighted segmentation and dual staged feature fusion based meta classification for breast cancer utilizing ultrasound imaging"</b> published by Elsevier's <b>"Intelligent Systems with Applications"</b> journal. Some code snippets, such as ASPP and Attention Block, etc., have been removed from the original codes and replaced with simpler ones for easier understanding and reproduction by fellow researchers.
 
 **Language used :** Python  </br> 
 **Development Tool :** Jupyter Notebook
