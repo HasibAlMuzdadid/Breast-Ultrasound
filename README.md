@@ -9,7 +9,7 @@ Hasib Al Muzdadid</br>
 [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/) </br>
 Portfolio: https://hasibalmuzdadid.github.io  </br> 
 LinkedIn: https://www.linkedin.com/in/hasibalmuzdadid  </br> 
-Email: muzdadid@gmail.com
+
 
 Pallab Chowdhury</br>
 [Department of Electrical & Computer Engineering](https://www.ece.ruet.ac.bd/), </br>
